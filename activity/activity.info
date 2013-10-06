@@ -1,0 +1,8 @@
+[Activity]
+name = Reloj
+bundle_id = org.laptop.Reloj
+exec = sugar-activity Reloj.Reloj
+icon = activity-clock
+activity_version = 1
+show_launcher = yes
+license=Public Domain
